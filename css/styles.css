@@ -33,7 +33,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #00277a;
+  --bs-primary: #007bff;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -284,7 +284,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;
   color: #fff;
-  background-color: #212529;
+  background-color: white;
   border-radius: 0.2rem;
 }
 kbd kbd {
@@ -3265,7 +3265,7 @@ textarea.form-control-lg {
 }
 .btn-dark:disabled, .btn-dark.disabled {
   color: #fff;
-  background-color: #212529;
+  background-color: white;
   border-color: #212529;
 }
 
@@ -3450,7 +3450,7 @@ textarea.form-control-lg {
 }
 .btn-outline-dark:hover {
   color: #fff;
-  background-color: #212529;
+  background-color: white;
   border-color: #212529;
 }
 .btn-check:focus + .btn-outline-dark, .btn-outline-dark:focus {
@@ -3458,7 +3458,7 @@ textarea.form-control-lg {
 }
 .btn-check:checked + .btn-outline-dark, .btn-check:active + .btn-outline-dark, .btn-outline-dark:active, .btn-outline-dark.active, .btn-outline-dark.dropdown-toggle.show {
   color: #fff;
-  background-color: #212529;
+  background-color: white;
   border-color: #212529;
 }
 .btn-check:checked + .btn-outline-dark:focus, .btn-check:active + .btn-outline-dark:focus, .btn-outline-dark:active:focus, .btn-outline-dark.active:focus, .btn-outline-dark.dropdown-toggle.show:focus {
@@ -4034,8 +4034,8 @@ textarea.form-control-lg {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  /* padding-top: 0.5rem;
+  padding-bottom: 0.5rem; */
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -11339,9 +11339,9 @@ p {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #212529;
+  /* padding-top: 1rem;
+  padding-bottom: 1rem; */
+  background-color: white;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -11358,24 +11358,24 @@ p {
   text-transform: uppercase;
 }
 #mainNav .navbar-brand img {
-  height: 1.5rem;
+  height: 4rem;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
-  color: #fff;
+  color: #007bff;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #2368ff;
+  color: #1475d0;
 }
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    /* padding-top: 1rem;
+    padding-bottom: 1rem; */
     border: none;
-    background-color: rgba(33, 37, 41,0.5);
+    background-color: white;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
@@ -11383,20 +11383,20 @@ p {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 4rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: #212529;
+    /* padding-top: 1rem;
+    padding-bottom: 1rem; */
+    background-color: white;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
   }
   #mainNav.navbar-shrink .navbar-brand svg,
 #mainNav.navbar-shrink .navbar-brand img {
-    height: 1.5rem;
+    height: 4rem;
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
@@ -11719,7 +11719,7 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: white;
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -11773,9 +11773,19 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .footer {
-  background-color: #212529;
-  color: whitesmoke;
+  background-color: white;
+  color: black;
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.footer img{
+  max-width: 100%;
+}
+
+
+.orientasi-bersama{
+  border: solid 2px #007bff;
+  border-radius: 10px;
 }
