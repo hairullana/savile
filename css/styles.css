@@ -11790,3 +11790,12 @@ section#contact form#contactForm :-ms-input-placeholder {
   border: solid 2px #007bff;
   border-radius: 10px;
 }
+
+
+.sosmed a {
+  text-decoration: none;
+}
+
+.sosmed span {
+  margin-left: 2rem;
+}

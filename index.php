@@ -7,7 +7,7 @@
         <meta name="author" content="Squad FCC0220 POM" />
         <title>SAVILE - Samudra Virtual Learning</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
         <!-- AOS CSS -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
 
@@ -20,6 +20,7 @@
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
+        <!-- CSS only -->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
@@ -76,6 +77,11 @@
                         </p>
                         <p class="text-muted"  data-aos="zoom-out-right">
                             Bersama SAVILE Anda akan merasakan serunya belajar dengan tantangan untuk menyelesaikan sebuah misi dan mendapatkan pengalaman yang tak terlupakan.
+                        </p>
+                        <p class="sosmed" data-aos="zoom-out-right">
+                            <span><a href="https://www.instagram.com/savile_fcc/"><i class="fab fa-instagram"></i> @savile_fcc</a></span>
+                            <span><a href="https://www.instagram.com/fcc_orientasi/"><i class="fab fa-instagram"></i> @fcc_orientasi</a></span>
+                            <span><a href="https://map.fcc-itdri.id/"><i class="fas fa-flask"></i> FCC Data Expert</a></span>
                         </p>
                     </div>
                 </div>
