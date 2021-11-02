@@ -55,8 +55,7 @@
                 <div class="masthead-heading" data-aos="fade-up">HELLO SAVILERS!</div>
                 <div class="masthead-heading" data-aos="fade-up">WELCOME TO THE SAVILE GAMES</div>
                 <div class="masthead-subheading" data-aos="fade-up">Let’s Make Us as Your Study Friend</div>
-                <a data-aos="fade-right" class="btn btn-primary btn-xl text-uppercase mt-2" href="https://saville.fcc-itdri.id/">Play Now!</a>
-                <a data-aos="fade-left" class="btn btn-primary btn-xl text-uppercase mt-2" href="#download">Download</a>
+                <a data-aos="fade-up" class="btn btn-primary btn-xl text-uppercase mt-2" href="#download">Download</a>
             </div>
         </header>
 
