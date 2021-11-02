@@ -144,20 +144,20 @@
                         <div class="card-body"  data-aos="fade-left">
                             <h5 class="card-title">SAVILE v2.0</h5>
                             <p class="card-text">Support : Windows 8, Windows 8.1, Windows 10, Windows 11</p>
-                            <a href="#" class="card-link">Direct Download</a>
-                            <a href="#" class="card-link">Google Drive</a>
+                            <a href="download.php" class="card-link">Direct Download</a>
+                            <a href="download.php" class="card-link">Google Drive</a>
                         </div>
                         <div class="card-body"  data-aos="fade-left">
                             <h5 class="card-title">SAVILE v1.2</h5>
                             <p class="card-text">Support : Windows 7, Windows Vista, Windows 8, Windows 8.1, Windows 10, Windows 11</p>
-                            <a href="#" class="card-link">Direct Download</a>
-                            <a href="#" class="card-link">Google Drive</a>
+                            <a href="download.php" class="card-link">Direct Download</a>
+                            <a href="download.php" class="card-link">Google Drive</a>
                         </div>
                         <div class="card-body"  data-aos="fade-left">
                             <h5 class="card-title">SAVILE v1.0</h5>
                             <p class="card-text">Support : Windows 7, Windows Vista, Windows 8, Windows 8.1, Windows 10, Windows 11</p>
-                            <a href="#" class="card-link">Direct Download</a>
-                            <a href="#" class="card-link">Google Drive</a>
+                            <a href="download.php" class="card-link">Direct Download</a>
+                            <a href="download.php" class="card-link">Google Drive</a>
                         </div>
                     </div>
                 </div>
