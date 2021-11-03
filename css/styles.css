@@ -11796,6 +11796,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-decoration: none;
 }
 
-.sosmed span {
-  margin-left: 2rem;
+.sosmed a span {
+  margin-left: 0.5rem;
 }
