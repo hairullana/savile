@@ -36,7 +36,10 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div class="container">
-              <a class="navbar-brand" href="#page-top"><img src="assets/img/fcc-logo.png"/></a>
+              <a class="navbar-brand">
+                <img src="assets/img/fcc-logo.png"/>
+                <img src="assets/img/savile-logo.png"/>
+              </a>
               
               <div class="justify-content-end">
 
@@ -45,6 +48,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav me-auto mb-2 mb-lg-0 fw-bolder">
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Home</a>
+                    </li>
                     <li class="nav-item">
                       <a class="nav-link" href="#about-us">Tentang Kami</a>
                     </li>
@@ -87,10 +93,18 @@
                         <p class="text-muted"  data-aos="zoom-out-right">
                             Bersama SAVILE Anda akan merasakan serunya belajar dengan tantangan untuk menyelesaikan sebuah misi dan mendapatkan pengalaman yang tak terlupakan.
                         </p>
-                        <p class="sosmed" data-aos="zoom-out-right">
-                            <span><a href="https://www.instagram.com/savile_fcc/"><i class="fab fa-instagram"></i> @savile_fcc</a></span>
-                            <span><a href="https://www.instagram.com/fcc_orientasi/"><i class="fab fa-instagram"></i> @fcc_orientasi</a></span>
-                            <span><a href="https://map.fcc-itdri.id/"><i class="fas fa-flask"></i> FCC Data Expert</a></span>
+                        <p>
+                          <div class="row justify-content-center mt-3" data-aos="zoom-out-left">
+                            <div class="col-md-3 sosmed">
+                              <a href="https://www.instagram.com/savile_fcc/"><i class="fab fa-instagram"></i> @savile_fcc</a>
+                            </div>
+                            <div class="col-md-3 sosmed">
+                              <a href="https://www.instagram.com/fcc_orientasi/"><i class="fab fa-instagram"></i> @fcc_orientasi</a>
+                            </div>
+                            <div class="col-md-3 sosmed">
+                              <a href="https://awp.fcc-itdri.id/"><i class="fas fa-flask"></i> FCC Data Expert</a>
+                            </div>
+                          </div>
                         </p>
                     </div>
                 </div>

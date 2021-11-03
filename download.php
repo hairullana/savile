@@ -33,15 +33,16 @@
 <body>
     <div class="text-center mt-5">
         <h3>
-            You will be redirected to a download page in 5 seconds           
+            You will be redirected to a download page in <span>3</span> seconds           
         </h3>
     </div>
     <script type="text/javascript">   
-        function Redirect() 
-        {  
+        function Redirect() {  
             window.location="https://www.google.com"; 
         } 
-        setTimeout('Redirect()', 5000);
+        let time = 3000
+        setTimeout('Redirect()', time);
+        
         </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
     <!-- Bootstrap core JS-->
