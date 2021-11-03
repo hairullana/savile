@@ -66,16 +66,11 @@
                             Bersama SAVILE Anda akan merasakan serunya belajar dengan tantangan untuk menyelesaikan sebuah misi dan mendapatkan pengalaman yang tak terlupakan.
                         </p>
                         <p>
-                          <div class="row justify-content-center mt-3" data-aos="zoom-out-left">
-                            <div class="col-md-3 sosmed">
-                              <a href="https://www.instagram.com/savile_fcc/"><i class="fab fa-instagram"></i> @savile_fcc</a>
-                            </div>
-                            <div class="col-md-3 sosmed">
-                              <a href="https://www.instagram.com/fcc_orientasi/"><i class="fab fa-instagram"></i> @fcc_orientasi</a>
-                            </div>
-                            <div class="col-md-3 sosmed">
-                              <a href="https://awp.fcc-itdri.id/"><i class="fas fa-flask"></i> FCC Data Expert</a>
-                            </div>
+                          <div class="row justify-content-center mt-5" data-aos="zoom-out-left">
+                            <div class="col-md-12 sosmed">
+                              <a class="btn btn-primary" href="https://www.instagram.com/savile_fcc/"><i class="fab fa-instagram"></i> @savile_fcc</a>
+                              <a class="btn btn-primary" href="https://www.instagram.com/fcc_orientasi/"><i class="fab fa-instagram"></i> @fcc_orientasi</a>
+                              <a class="btn btn-primary" href="https://awp.fcc-itdri.id/"><i class="fas fa-flask"></i> FCC Data Expert</a>
                           </div>
                         </p>
                     </div>
@@ -105,7 +100,7 @@
                             <i class="fas fa-lightbulb fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Sertifikat</h4>
-                        <p class="text-muted">Tidak hanya bermain, dapatkan sertifikat digital untuk mengetahui seberapa dalam wawasan Anda setelah memainkan game Savile.</p>
+                        <p class="text-muted">Tidak hanya bermain, dapatkan sertifikat digital yang unik buat kalian yang berhasil!</p>
                     </div>
                     <div class="col-md-3"  data-aos="zoom-in-up">
                         <span class="fa-stack fa-4x">

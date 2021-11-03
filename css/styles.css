@@ -11422,14 +11422,14 @@ header.masthead .masthead-subheading {
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Fira Sans', sans-serif;
 }
 header.masthead .masthead-heading {
   font-size: 2.75rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 1rem;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 @media (min-width: 768px) {

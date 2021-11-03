@@ -15,7 +15,7 @@
                 count--;
                 var waktu = count + 1;
                 $('#pesan').html('<h3>Kamu akan dialihkan ke halaman download setelah <font size=5 color=maroon>' + waktu + '</font> detik.</h1>');
-                setTimeout("countDown()", 1000);
+                setTimeout(countDown, 1000);
             } else {
                 window.location.href = url;
             }
