@@ -36,7 +36,7 @@
     <div id="pesan" class="mt-5 text-center"></div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>
-        var url = "https://google.com"; // url tujuan
+        var url = "https://drive.google.com/drive/folders/1SxSpqvxhulVhAmJzn_9EqXk8UKaFkY2e"; // url tujuan
         var count = 5; // dalam detik
         function countDown() {
             if (count > 0) {
