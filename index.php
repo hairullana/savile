@@ -96,7 +96,7 @@
                           <div class="row justify-content-center mt-5" data-aos="zoom-out-left">
                             <div class="col-md-12 sosmed">
                                 <a class="btn btn-primary" href="https://www.instagram.com/savile_fcc/"><i class="fab fa-instagram"></i> <span>savile_fcc</span></a>
-                                <a class="btn btn-primary" href="https://www.instagram.com/fcc_orientasi/"><i class="fab fa-instagram"></i> <span>fcc_orientasi</span></a>
+                                <a class="btn btn-primary" href="https://www.instagram.com/fcc_idn/"><i class="fab fa-instagram"></i> <span>fcc_orientasi</span></a>
                                 <a class="btn btn-primary" href="https://map.fcc-itdri.id/"><i class="fas fa-flask"></i> <span>FCC Data Expert</span></a>
                           </div>
                         </p>
@@ -159,9 +159,16 @@
                 <div class="row">
                     <div class="card" style="width: 100%;">
                         <div class="card-body"  data-aos="fade-left">
+                            <h5 class="card-title">SAVILE v2.1</h5>
+                            <p class="card-text">Operating System : Windows</p>
+                            <a href="download-v2-1.php" class="card-link">Google Drive</a>
+                        </div>
+                    </div>
+                    <div class="card" style="width: 100%;">
+                        <div class="card-body"  data-aos="fade-left">
                             <h5 class="card-title">SAVILE v2.0</h5>
                             <p class="card-text">Operating System : Windows</p>
-                            <a href="download.php" class="card-link">Google Drive</a>
+                            <a href="download-v2-0.php" class="card-link">Google Drive</a>
                         </div>
                     </div>
                 </div>

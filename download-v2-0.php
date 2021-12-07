@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Samudra Learning Center" />
     <meta name="author" content="Squad FCC0220 POM" />
-    <title>Download SAVILE</title>
+    <title>Download SAVILE v2.0</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
     <!-- AOS CSS -->
